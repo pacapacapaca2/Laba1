@@ -14,7 +14,7 @@
 - отображается текст "Переданный параметр: Стан".
 <p align="center">
     <img src="https://github.com/pacapacapaca2/images/blob/main/eMzMomELExM.jpg" width="250"> 
-    <img src="https://github.com/user-attachments/assets/c879feed-e7fa-4a12-a63a-e9e3c8856e30" width="250">
+    <img src="https://github.com/pacapacapaca2/images/blob/main/qHwRu6lmnRI.jpg" width="250">
 </p> 
 
 
