@@ -13,7 +13,7 @@
 - передается параметр из `MainActivity` в переменную экрана `MainActivity2`
 - отображается текст "Переданный параметр: Стан".
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/60b5be7f-f869-4bdd-84b6-8a9efbe24112" width="250"> 
+    <img src="https://github.com/pacapacapaca2/images/blob/main/eMzMomELExM.jpg" width="250"> 
     <img src="https://github.com/user-attachments/assets/c879feed-e7fa-4a12-a63a-e9e3c8856e30" width="250">
 </p> 
 
