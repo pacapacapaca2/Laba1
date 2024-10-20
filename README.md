@@ -14,7 +14,7 @@
 - на втором экране отображается текст: "Переданный параметр: Стан".
 <p align="center">
     <img src="https://github.com/user-attachments/assets/bd6dc254-0fd1-4df9-975a-ba0e5ab65a95" width="250"> 
-    <img src="https://private-user-images.githubusercontent.com/163531602/375938861-ea73d84b-3771-4027-97c3-0e600aa476e0.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkxODU2MjEsIm5iZiI6MTcyOTE4NTMyMSwicGF0aCI6Ii8xNjM1MzE2MDIvMzc1OTM4ODYxLWVhNzNkODRiLTM3NzEtNDAyNy05N2MzLTBlNjAwYWE0NzZlMC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxN1QxNzE1MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iOGZlYWY3MjlmODQzOTQ3MGU3YzQ3ODkxMDc4NWM4ZDdjZmFkZmY3YzYzMDYyMzRlODRjZjMyMzcyMzAyMGIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.RAoVUPhMQSCrY4WH4Y3obKeVPWb5ecTMDuFZVK_JDAo" width="250">
+    <img src="https://github.com/user-attachments/assets/ea73d84b-3771-4027-97c3-0e600aa476e0" width="250">
 </p> 
 
 
